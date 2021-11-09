@@ -321,5 +321,5 @@ function startNextQuarter() {
                 endGame();
             }
         }
-    }, 1000); //seconds parameter
+    }, 100); //seconds parameter
 }
