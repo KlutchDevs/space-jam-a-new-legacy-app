@@ -48,7 +48,6 @@ function processPlayers(allPlayerStats) {
 
     // Add the players to the bench.
     displayPlayerBench();
-
 }
 
 // Function to add the players to the bench to start the game
